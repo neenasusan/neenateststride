@@ -1,0 +1,27 @@
+h2 {
+       
+        color: #A20D10;
+	
+      
+    }
+#c1,
+		#c2,
+		#c3 {
+			float: left;
+			width: 33.3%;
+			color: #0A28B1;
+		}
+		
+		#r1:after {
+			content: "";
+			display: table;
+			clear: both;
+			color: #0A28B1;
+		}
+
+h3{
+	
+	
+	 color: #A20D10;
+	
+}

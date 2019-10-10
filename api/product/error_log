@@ -1,0 +1,24 @@
+[04-Apr-2019 22:25:43 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 39
+[04-Apr-2019 22:25:46 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 39
+[04-Apr-2019 22:25:51 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 39
+[04-Apr-2019 22:26:02 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 39
+[04-Apr-2019 22:26:10 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 39
+[13-Jun-2019 22:12:56 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:12:59 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:13:09 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:13:52 UTC] PHP Notice:  Undefined variable: clientid in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 191
+[13-Jun-2019 22:13:52 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:13:52 UTC] PHP Notice:  Undefined variable: clientid in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 191
+[13-Jun-2019 22:13:52 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:13:53 UTC] PHP Notice:  Undefined variable: clientid in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 191
+[13-Jun-2019 22:13:53 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:13:53 UTC] PHP Notice:  Undefined variable: clientid in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 191
+[13-Jun-2019 22:13:53 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:13:53 UTC] PHP Notice:  Undefined variable: clientid in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/objects/product.php on line 191
+[13-Jun-2019 22:13:53 UTC] PHP Notice:  Undefined variable: conn in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 16
+[13-Jun-2019 22:16:21 UTC] PHP Fatal error:  Using $this when not in object context in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/config/database.php on line 26
+[13-Jun-2019 22:16:22 UTC] PHP Fatal error:  Using $this when not in object context in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/config/database.php on line 26
+[13-Jun-2019 22:21:25 UTC] PHP Fatal error:  Using $this when not in object context in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/config/database.php on line 26
+[13-Jun-2019 22:21:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/config/database.php on line 26
+[13-Jun-2019 22:35:28 UTC] PHP Notice:  Trying to get property of non-object in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 25
+[13-Jun-2019 22:35:30 UTC] PHP Notice:  Trying to get property of non-object in /home/stridemanagement/public_html/canvas.millions.com/grfx4.dv/api/product/create.php on line 25
